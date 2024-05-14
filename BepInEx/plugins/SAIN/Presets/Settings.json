@@ -1,7 +1,7 @@
 {
-  "SelectedPreset": "3. Default",
+  "SelectedPreset": "5. Death Wish Copy()",
   "DefaultPreset": "3. Default",
-  "AdvancedBotConfigs": false,
+  "AdvancedBotConfigs": true,
   "ConfigScaling": 1.0,
   "GlobalDebugMode": false,
   "DebugExternal": false,

@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "user\\logs\\.c9903a5a59bdfc22c1dae4ef506c5c4e7bba8c51-audit.json",
+    "files": [
+        {
+            "date": 1715051163024,
+            "name": "user\\logs\\server-2024-05-07.log",
+            "hash": "ce2392ec215ef20f0025bc126a5926aee30abecf474483b930ea6fd2a2cefe58"
+        },
+        {
+            "date": 1715090403629,
+            "name": "user\\logs\\server-2024-05-08.log",
+            "hash": "833c372c9274a3cc3b70ad1b0955bced589022db3956c8805c1259a35c8a450f"
+        },
+        {
+            "date": 1715176816715,
+            "name": "user\\logs\\server-2024-05-09.log",
+            "hash": "95f9aaed13240d404ad7d60ba3a3db9ab95d1c8323ce485321c25d79e7a01126"
+        },
+        {
+            "date": 1715263976859,
+            "name": "user\\logs\\server-2024-05-10.log",
+            "hash": "d8ab5382ef16a3051f4ed377044014a64ff84c66c22d56ecf6fc802379294e06"
+        },
+        {
+            "date": 1715386130845,
+            "name": "user\\logs\\server-2024-05-11.log",
+            "hash": "b9819750851b5dbf9d18869b1a4741161ac1467c653529cbd12818b2868b5882"
+        },
+        {
+            "date": 1715480615574,
+            "name": "user\\logs\\server-2024-05-12.log",
+            "hash": "14961fef1bb1d38b9cc14746c040d21ba3b2f4bac40f84488a1355a88ed06dac"
+        },
+        {
+            "date": 1715557972187,
+            "name": "user\\logs\\server-2024-05-13.log",
+            "hash": "ed7b9b40685f1d3745702df036dfdc52af5c0d28c507dee5f1b916280a5186b8"
+        },
+        {
+            "date": 1715602504349,
+            "name": "user\\logs\\server-2024-05-13.log.1",
+            "hash": "998eea37cd5441dbf7ce7df64aa4f47f2c50c58e0d0c3433260ac034c598196b"
+        },
+        {
+            "date": 1715608810635,
+            "name": "user\\logs\\server-2024-05-14.log",
+            "hash": "7a1284863f89318644185c20baceb3ed805512b9aeff0c1e4bae392e71020804"
+        },
+        {
+            "date": 1715695200029,
+            "name": "user\\logs\\server-2024-05-15.log",
+            "hash": "cce68ef084cc415b3292fc881e0301ad7bf9ca50345b72cc4b131f615aa4f7f3"
+        }
+    ],
+    "hashType": "sha256"
+}
