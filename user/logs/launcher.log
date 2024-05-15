@@ -1,36 +1,22 @@
-[2024-05-14 21:32:26] ==== Launcher Started ====
-[2024-05-14 21:32:26][Info] Using launcher config at: \\Desktop-16iisog\d\sfp\user\launcher\config.json
-[2024-05-14 21:32:28][Info] Connected to server: http://26.161.187.158:6969 - Aki Version: 3.8.3
-[2024-05-14 21:32:30][Info] >>> Launching Game
-[2024-05-14 21:32:30][Info] >>> Account: admin
-[2024-05-14 21:32:30][Info] >>> Server : http://26.161.187.158:6969
-[2024-05-14 21:32:30][Info] [LaunchGame] Installed in Live :: NO
-[2024-05-14 21:32:30][Info] [LaunchGame] Setup Game Files ...
-[2024-05-14 21:32:30][Info] Recursive Removal: E:\spt-3.8.2\Logs
-[2024-05-14 21:32:30][Info] Recursive Removal: E:\spt-3.8.2\Logs\log_2024.05.14_11-28-55_0.14.1.2.29197
-[2024-05-14 21:32:30][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-28-55_0.14.1.2.29197\2024.05.14_11-28-55_0.14.1.2.29197 application.log
-[2024-05-14 21:32:30][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-28-55_0.14.1.2.29197\2024.05.14_11-28-55_0.14.1.2.29197 errors.log
-[2024-05-14 21:32:30][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-28-55_0.14.1.2.29197\2024.05.14_11-28-55_0.14.1.2.29197 notifications.log
-[2024-05-14 21:32:30][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-28-55_0.14.1.2.29197\2024.05.14_11-28-55_0.14.1.2.29197 traces.log
-[2024-05-14 21:32:30][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-28-55_0.14.1.2.29197\2024.05.14_11-28-55_0.14.1.2.29197_backend.log
-[2024-05-14 21:32:30][Info] [LaunchGame] Game Validation   :: OK
-[2024-05-14 21:32:30][Info] [LaunchGame] Valid Game Path   :: OK
-[2024-05-14 21:32:31][Info] [LaunchGame] Applying Patch    :: OK
-[2024-05-14 21:32:31][Info] [LaunchGame] Game process started
-[2024-05-14 21:34:18][Info] Connected to server: http://26.161.187.158:6969 - Aki Version: 3.8.3
-[2024-05-14 21:34:24][Info] >>> Launching Game
-[2024-05-14 21:34:24][Info] >>> Account: Sexiest_Tub
-[2024-05-14 21:34:25][Info] >>> Server : http://26.161.187.158:6969
-[2024-05-14 21:34:25][Info] [LaunchGame] Installed in Live :: NO
-[2024-05-14 21:34:25][Info] [LaunchGame] Setup Game Files ...
-[2024-05-14 21:34:25][Info] Recursive Removal: E:\spt-3.8.2\Logs
-[2024-05-14 21:34:25][Info] Recursive Removal: E:\spt-3.8.2\Logs\log_2024.05.14_11-32-38_0.14.1.2.29197
-[2024-05-14 21:34:25][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-32-38_0.14.1.2.29197\2024.05.14_11-32-38_0.14.1.2.29197 application.log
-[2024-05-14 21:34:25][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-32-38_0.14.1.2.29197\2024.05.14_11-32-38_0.14.1.2.29197 errors.log
-[2024-05-14 21:34:25][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-32-38_0.14.1.2.29197\2024.05.14_11-32-38_0.14.1.2.29197 notifications.log
-[2024-05-14 21:34:25][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-32-38_0.14.1.2.29197\2024.05.14_11-32-38_0.14.1.2.29197 traces.log
-[2024-05-14 21:34:25][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.14_11-32-38_0.14.1.2.29197\2024.05.14_11-32-38_0.14.1.2.29197_backend.log
-[2024-05-14 21:34:25][Info] [LaunchGame] Game Validation   :: OK
-[2024-05-14 21:34:25][Info] [LaunchGame] Valid Game Path   :: OK
-[2024-05-14 21:34:25][Info] [LaunchGame] Applying Patch    :: OK
-[2024-05-14 21:34:25][Info] [LaunchGame] Game process started
+[2024-05-15 14:52:11] ==== Launcher Started ====
+[2024-05-15 14:52:11][Info] Using launcher config at: E:\spt-3.8.2\user\launcher\config.json
+[2024-05-15 14:52:12][Info] Connected to server: http://26.161.187.158:6969 - Aki Version: 3.8.3
+[2024-05-15 14:52:14][Info] >>> Launching Game
+[2024-05-15 14:52:14][Info] >>> Account: Sexiest_Tub
+[2024-05-15 14:52:14][Info] >>> Server : http://26.161.187.158:6969
+[2024-05-15 14:52:14][Info] [LaunchGame] Installed in Live :: NO
+[2024-05-15 14:52:14][Info] [LaunchGame] Setup Game Files ...
+[2024-05-15 14:52:14][Info] Recursive Removal: E:\spt-3.8.2\Logs
+[2024-05-15 14:52:14][Info] Recursive Removal: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197
+[2024-05-15 14:52:14][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197\2024.05.15_4-48-07_0.14.1.2.29197 application.log
+[2024-05-15 14:52:14][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197\2024.05.15_4-48-07_0.14.1.2.29197 errors.log
+[2024-05-15 14:52:14][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197\2024.05.15_4-48-07_0.14.1.2.29197 maperrors.log
+[2024-05-15 14:52:14][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197\2024.05.15_4-48-07_0.14.1.2.29197 notifications.log
+[2024-05-15 14:52:14][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197\2024.05.15_4-48-07_0.14.1.2.29197 spatial-audio.log
+[2024-05-15 14:52:14][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197\2024.05.15_4-48-07_0.14.1.2.29197 speaker.log
+[2024-05-15 14:52:14][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197\2024.05.15_4-48-07_0.14.1.2.29197 traces.log
+[2024-05-15 14:52:14][Debug]   -> del file: E:\spt-3.8.2\Logs\log_2024.05.15_4-48-07_0.14.1.2.29197\2024.05.15_4-48-07_0.14.1.2.29197_backend.log
+[2024-05-15 14:52:14][Info] [LaunchGame] Game Validation   :: OK
+[2024-05-15 14:52:14][Info] [LaunchGame] Valid Game Path   :: OK
+[2024-05-15 14:52:15][Info] [LaunchGame] Applying Patch    :: OK
+[2024-05-15 14:52:15][Info] [LaunchGame] Game process started
