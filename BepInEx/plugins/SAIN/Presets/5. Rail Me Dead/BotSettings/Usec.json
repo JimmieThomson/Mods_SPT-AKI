@@ -98,7 +98,7 @@
         "HandDamageAccuracySpeed": 1.35
       },
       "Shoot": {
-        "RecoilMultiplier": 1.0,
+        "RecoilMultiplier": 1.3,
         "BurstMulti": 1.25,
         "FireratMulti": 1.35,
         "CAN_STOP_SHOOT_CAUSE_ANIMATOR": true,
@@ -308,7 +308,7 @@
         "HandDamageAccuracySpeed": 1.35
       },
       "Shoot": {
-        "RecoilMultiplier": 1.0,
+        "RecoilMultiplier": 0.9,
         "BurstMulti": 1.25,
         "FireratMulti": 1.35,
         "CAN_STOP_SHOOT_CAUSE_ANIMATOR": true,
@@ -347,7 +347,7 @@
         "GainSightCoef": 0.02,
         "ScatteringPerMeter": 0.045,
         "ScatteringClosePerMeter": 0.12,
-        "HearingSense": 1.0,
+        "HearingSense": 1.2,
         "CanGrenade": true
       },
       "Grenade": {
@@ -395,7 +395,7 @@
         "Aggression": 1.0,
         "WeaponProficiency": 0.5,
         "TalkFrequency": 2.0,
-        "CanTalk": true,
+        "CanTalk": false,
         "BotTaunts": true,
         "SquadTalk": true,
         "SquadMemberTalkFreq": 3.0,
@@ -413,7 +413,7 @@
         "HandDamageAccuracySpeed": 1.35
       },
       "Shoot": {
-        "RecoilMultiplier": 1.0,
+        "RecoilMultiplier": 0.8,
         "BurstMulti": 1.25,
         "FireratMulti": 1.35,
         "CAN_STOP_SHOOT_CAUSE_ANIMATOR": true,

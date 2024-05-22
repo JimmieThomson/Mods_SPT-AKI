@@ -79,7 +79,7 @@
       "Mind": {
         "Aggression": 1.0,
         "WeaponProficiency": 0.5,
-        "TalkFrequency": 2.0,
+        "TalkFrequency": 15.0,
         "CanTalk": true,
         "BotTaunts": true,
         "SquadTalk": true,
@@ -184,7 +184,7 @@
       "Mind": {
         "Aggression": 1.0,
         "WeaponProficiency": 0.5,
-        "TalkFrequency": 2.0,
+        "TalkFrequency": 15.0,
         "CanTalk": true,
         "BotTaunts": true,
         "SquadTalk": true,
@@ -289,7 +289,7 @@
       "Mind": {
         "Aggression": 1.0,
         "WeaponProficiency": 0.5,
-        "TalkFrequency": 2.0,
+        "TalkFrequency": 15.0,
         "CanTalk": true,
         "BotTaunts": true,
         "SquadTalk": true,
@@ -394,7 +394,7 @@
       "Mind": {
         "Aggression": 1.0,
         "WeaponProficiency": 0.5,
-        "TalkFrequency": 2.0,
+        "TalkFrequency": 15.0,
         "CanTalk": true,
         "BotTaunts": true,
         "SquadTalk": true,
